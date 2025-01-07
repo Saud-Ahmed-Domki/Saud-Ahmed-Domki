@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Saud-Ahmed-Domki/Saud-Ahmed-Domki/blob/main/banner.jpg" alt="logo" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Saud Ahmed Domki</h1>
 <h3 align="center">Crafting user-friendly, responsive websites with clean code and modern design.</h3>
 
